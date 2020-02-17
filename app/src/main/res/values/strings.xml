@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Beginner(Tutorials)</string>
+    <string name="network_error">Network Error</string>
+    <string name="error_timeout_title">Error timeout title</string>
+    <string name="error_timeout_body">Error timeout body</string>
+</resources>
